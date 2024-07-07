@@ -2,6 +2,6 @@ basta baixar em forma zip, depois descompactalos e adicionar todos os arquivos e
 
 cd *diretorio da pasta*
 
-g++ voos.h voos.cpp astronautas.h astronautas.cpp agencia.h agencia.cpp principla.cpp -o teste
+g++ voos.h voos.cpp astronautas.h astronautas.cpp agencia.h agencia.cpp principla.cpp -o trabalho_lp1
 
-teste
+trabalho_lp1
